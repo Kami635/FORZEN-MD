@@ -2,13 +2,13 @@
   "name": "FORZEN-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
-  "keywords": ["nodejs", "bot", "FORZEN-MD", "YASIYA-OFC", "INDUWARA", "Secktor","YASIYA","theme bot","multi device","baileys","Sam Pandey"],
+  "keywords": ["nodejs", "bot", "kami-md", "Kami-OFC", "INDUWARA", "Secktor","Kami","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "YASIYA OFC"
+      "value": "Kami OFC"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
