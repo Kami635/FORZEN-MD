@@ -1,15 +1,15 @@
 {
-               "name": "forzen-md",
+               "name": "kami-md",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Yasiya.",
+               "description": "Multi device whatsapp bot by Kami_Broken.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Forzen-Md",
-                "stop": "pm2 stop Forzen-Md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name kami-md",
+                "stop": "pm2 stop kami-md"
                 },
-               "author": "Yasiya-OFC",
+               "author": "Kami-OFC",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -99,10 +99,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/yasiyaofc1/FORZEN-MD.git"
+                 "url": "git+https://github.com/Kami635/FORZEN-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/yasiyaofc1/FORZEN-MD/issues"
+                 "url": "https://github.com/Kami635/FORZEN-MD/issues"
                   },
-                 "homepage": "https://github.com/yasiyaofc1/FORZEN-MD#readme"
+                 "homepage": "https://github.com/Kami635/FORZEN-MD#readme"
                   }
